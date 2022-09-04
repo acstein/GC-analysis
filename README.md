@@ -1,0 +1,1 @@
+Code to analyse Gas Chromatography data, creating a calibration curve, regecting anomalous values then using this to find unknown concentrations.
